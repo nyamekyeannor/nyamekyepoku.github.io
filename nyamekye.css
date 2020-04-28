@@ -6,21 +6,21 @@ body{
 }
 
 .homebody{
-    background-image: url(images/1.jpeg);
+    background-image: url(1.jpeg);
 }
 .aboutbody{
-    background-image: url(images/5.jpeg);
+    background-image: url(5.jpeg);
 }
 
 .codebody{
-    background-image: url(images/4.jpeg);
+    background-image: url(4.jpeg);
 }
 
 .contact{
     padding-top: 10%;
 }
 .contactbody{
-    background-image: url(images/8.jpeg);
+    background-image: url(8.jpeg);
 }
 
 .card-title{
