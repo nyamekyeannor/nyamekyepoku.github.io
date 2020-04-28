@@ -1,0 +1,135 @@
+body{
+    text-align: center;
+    font-family: 'Josefin Slab', serif;
+    font-size: 1.2rem;
+    background-size: cover;
+}
+
+.homebody{
+    background-image: url(images/1.jpeg);
+}
+.aboutbody{
+    background-image: url(images/5.jpeg);
+}
+
+.codebody{
+    background-image: url(images/4.jpeg);
+}
+
+.contact{
+    padding-top: 10%;
+}
+.contactbody{
+    background-image: url(images/8.jpeg);
+}
+
+.card-title{
+    font-weight: bolder;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+}
+
+.codecontainer{
+    float: left;
+    margin-top: 30px;
+}
+.aboutpicture{
+    width: 100%;
+}
+
+.jumbotron{
+text-align: center;
+background-color: whitesmoke;
+}
+
+.welcome{
+    padding: 2%;
+}
+
+.display-4{
+    font-family:'Orbitron', sans-serif;
+}
+
+
+.fontawesome{
+    font-size: 3rem;
+    padding: 2%;
+    color: rgb(65, 66, 58);
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+
+.abouttext{
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 900px;
+    width: 80%;
+    background-color:white;
+}
+
+.codetext{
+    padding: 20px;
+	margin: 20px auto;
+	max-width: 900px;
+    width: 80%;
+    background-color:white;
+}
+
+
+.homepicture{
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        animation: fadeIn ease 10s;
+        -webkit-animation: fadeIn ease 6s;
+        -moz-animation: fadeIn ease 10s;
+        -o-animation: fadeIn ease 10s;
+        -ms-animation: fadeIn ease 10s;
+      }
+      @keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-moz-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-webkit-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-o-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+        }
+      }
+      
+      @-ms-keyframes fadeIn {
+        0% {
+          opacity:0;
+        }
+        100% {
+          opacity:1;
+      }
+}
