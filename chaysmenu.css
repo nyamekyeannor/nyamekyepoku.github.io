@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    font-family: 'Hind Vadodara', sans-serif;
+    color: black;
+    background-color: black;
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/51VFV3pHfwL._AC_SX355_.jpg);
+}
+
+.jumbotron{
+    background-image: url(images/Untitled\ Design.PNG);
+    background-size: cover;
+}
+
+.display-4{
+    color: whitesmoke;
+    text-align: center;
+    }
+
+    h2{
+        color: white;
+        text-align: center;
+    }
+
+    .card-title{
+        text-align: center;
+        font-weight: bolder;
+    }
+
+    .card-body{
+        background-image: url(https://images-na.ssl-images-amazon.com/images/I/51VFV3pHfwL._AC_SX355_.jpg);
+        color: white;
+    }
+
+    .card{
+        border-color: rgb(39, 38, 38);
+    }
+
+    .contact{
+        font-size: 3rem;
+        padding: 2%;
+        color: rgb(65, 66, 58);
+        text-shadow: 1px 1px 2px #ccc;
+        background-color: black;
+    }
+
+    .create{
+        color: green;
+        float: left;
+        font-size: 1rem;
+    }
+   
+    
